@@ -46,8 +46,6 @@ Dillinger uses a number of open source projects to work properly:
 * [Breakdance](http://breakdance.io) - HTML to Markdown converter
 * [jQuery] - duh
 
-And of course Dillinger itself is open source with a [public repository][dill]
- on GitHub.
 
 ### Installation
 
